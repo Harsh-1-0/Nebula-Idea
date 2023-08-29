@@ -1,0 +1,10 @@
+body{
+    background: url('./images/Background.png');
+}
+.idea{
+    font-family: 'Trade Winds', cursive;
+    font-size: 4rem;
+}
+hr{
+    color: white;
+}
